@@ -6,4 +6,4 @@
 **İçerik** <br/>
 Ayrıntılı olarak verilen danışmanlıklar, hizmetler, iletişim bilgileri hakkında bilgilendirme
 
-![danismanlik gif](danismanlik.gif)
+![AKADEMİK gif](AKADEMİK.gif)
