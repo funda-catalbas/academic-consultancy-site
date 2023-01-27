@@ -1,9 +1,9 @@
-# akademik-danismanlik
+# ACADEMIC CONSULTANCY
 
-## Projenin Amacı
-*Danışmanlık vb. siteler oluşturma*
+## The goal of the project
+*It aims to provide services, academic consultancy and information.*
 
-**İçerik** <br/>
-Ayrıntılı olarak verilen danışmanlıklar, hizmetler, iletişim bilgileri hakkında bilgilendirme
-
+**Content of the project** <br/>
+This site, which was created in detail with HTML, CSS and Boostrap. 
+                            
 ![AKADEMİK gif](AKADEMİK.gif)
